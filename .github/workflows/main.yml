@@ -61,7 +61,7 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: ваш-логин-на-docker-hub/taski_backend:latest
+          tags: pinkamena/taski_backend:latest
 
 
   frontend_tests:
